@@ -1,2 +1,2 @@
-# spectagram-stage-8
-project solution for c88
+# spectagram-etapa-8
+solución del proyecto c88
